@@ -3,7 +3,7 @@ export default function Home() {
   const link = "https://google.com";
   return (
     <div>
-      <h1 className="title" style={{color: "gray", fontSize: "40px"}}>
+      <h1 className="title" style={{fontSize: "40px"}}>
         Hello! 🏁
       </h1>
       <p className="title-sub">{`by ${name} Zeeyoon`}</p>
